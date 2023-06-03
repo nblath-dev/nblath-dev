@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nexus</h1>
 <h3 align="center">High School Student from Indonesia</h3>
 
-<img src="https://i.pinimg.com/originals/fc/d4/97/fcd4977ee2e01c91ae0a60cd3cde280d.gif" width="40" height="40" />
+![tenor (2)](https://github.com/nblath-dev/nblath-dev/assets/68173717/05f609c5-c80e-4fbf-bb12-93cc74745c3a)
 
 - 🔭 I’m currently working on **nothing rn.**
 - 🌱 I’m currently learning **Dart Flutter, Python, AI**
