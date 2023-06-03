@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/84/92/a0/8492a049a8329532312f281708b1cece.jpg)]
+[![MasterHead](![𝐚𝐞𝐬𝐭𝐡𝐞𝐭𝐢𝐜𝐬 ☾ on Twitter](https://github.com/nblath-dev/nblath-dev/assets/68173717/7ca0fc3a-a7d6-4ad6-bef4-00b831774a5c))]
 
 <h1 align="center">Hi 👋, I'm Nexus</h1>
 <h3 align="center">High School Student from Indonesia</h3>
