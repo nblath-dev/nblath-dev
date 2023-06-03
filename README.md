@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nexus</h1>
 <h3 align="center">High School Student from Indonesia</h3>
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/fc/d4/97/fcd4977ee2e01c91ae0a60cd3cde280d.gif">
+<img src="https://i.pinimg.com/originals/fc/d4/97/fcd4977ee2e01c91ae0a60cd3cde280d.gif">
 
 
 - 🔭 I’m currently working on **nothing rn.**
