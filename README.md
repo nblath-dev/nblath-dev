@@ -1,9 +1,9 @@
-![𝐚𝐞𝐬𝐭𝐡𝐞𝐭𝐢𝐜𝐬 ☾ on Twitter (2)](https://github.com/nblath-dev/nblath-dev/assets/68173717/5a4bbfd9-9b65-46de-b598-2967d9d6f605)
+![𝐚𝐞𝐬𝐭𝐡𝐞𝐭𝐢𝐜𝐬 ☾ on Twitter (2)](https://github.com/nblath-dev/nblath-dev/assets/68173717/b91c5c88-a635-47f6-ad32-8bb45e47507a)
 
 <h1 align="center">Hi 👋, I'm Nexus</h1>
 <h3 align="center">High School Student from Indonesia</h3>
 
-![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNzdWIzNzY3cWIxYnI3eTdic21hdjBlcmRmY2hmc3UyZXRwNmUwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xPqDXjxJn0LFn3KmPa/giphy.gif)
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PqFx3thZmfYAAAAC/roku-vi.gif">
 
 - 🔭 I’m currently working on **nothing rn.**
 - 🌱 I’m currently learning **Dart Flutter, Python, AI**
@@ -11,3 +11,6 @@
 - 🤔 I’m looking for help with **nothing rn.**
 - 💬 Ask me about **nothing rn.**
 - ⚡ Fun fact: **I am human (real)**
+
+  <h2 align="left">“The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life.”</h2>
+  <p align="center">Bill Gates, Co-founder of Microsoft.</p>
