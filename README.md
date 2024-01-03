@@ -1,9 +1,9 @@
 ![𝐚𝐞𝐬𝐭𝐡𝐞𝐭𝐢𝐜𝐬 ☾ on Twitter (2)](https://github.com/nblath-dev/nblath-dev/assets/68173717/b91c5c88-a635-47f6-ad32-8bb45e47507a)
 
-<h1 align="center">Hi 👋, I'm Nexus</h1>
+<h1 align="center">Hi 👋, I'm Nabil</h1>
 <h3 align="center">High School Student from Indonesia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/bOWKN.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/_fMR1fYCXpwAAAAC/ryan-gosling.gif">
 
 - 🔭 I’m currently working on **nothing rn.**
 - 🌱 I’m currently learning **Dart Flutter, Python, AI**
