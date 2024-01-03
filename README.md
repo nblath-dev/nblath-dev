@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nexus</h1>
 <h3 align="center">High School Student from Indonesia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PqFx3thZmfYAAAAC/roku-vi.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/bOWKN.gif">
 
 - 🔭 I’m currently working on **nothing rn.**
 - 🌱 I’m currently learning **Dart Flutter, Python, AI**
